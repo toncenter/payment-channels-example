@@ -1,0 +1,8 @@
+{
+  "name": "ton-payment-channels-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "tonweb": "^0.0.50"
+  }
+}
